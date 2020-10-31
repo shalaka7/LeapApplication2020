@@ -1,8 +1,8 @@
 Shalaka W.
 ===============
-**Email:** [kharwandikarsn@gmail.com](mailto:kharwandikarsn@gmail.com)   
+**Email:** [wardhashalaka7@gmail.com](mailto:wardhashalaka7@gmail.com)   
 **GitHub:** [shalaka7](https://github.com/shalaka7)  
-(619) 494-0887   
+(619) 695 3453   
 13714 NE 9th PL,
 Bellevue, WA - 98005  
 
@@ -36,7 +36,9 @@ Bellevue, WA - 98005
 - **Coursework:** : Digital Image processing, VLSI Design and technology, Mobile Communication, Computer Network, Advance Satellite System and application, Network Synthesis
 - **Technologies:** C++, Assembly Language
 
-###Certification
+### Certification
+
+ 
 **Udacity Nanodegree Program**  
 ***Self-Driving Car Engineer***
 - **Coursework:** Hough Transform, Deep Neural Network, Convolutional Neural Network, LeNet, Sobel Filter, Kalman filter, Support Vector Machine, Decision tree, Particle filter, Motion Models.
